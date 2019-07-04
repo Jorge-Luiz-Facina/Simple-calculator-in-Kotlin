@@ -16,6 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity
+                android:name=".CreditsActivity"
+                android:label="Credits"
+                android:screenOrientation="portrait"
+                android:theme="@style/AppTheme" />
     </application>
 
 </manifest>
