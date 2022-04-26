@@ -23,10 +23,3 @@
 - [Simple-calculator-in-Xamarin.Forms](https://github.com/MainDuelo/Simple-calculator-in-Xamarin.Forms)
  
 
-## Author
-
-| [<img src="https://avatars.githubusercontent.com/MainDuel?v=3&s=115"><br><sub>@MainDuel</sub>](https://github.com/MainDuel) |
-| :---: |
-
-
-
